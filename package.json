@@ -1,0 +1,27 @@
+{
+  "name": "shisha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shishamatome/shisha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shishamatome/shisha/issues"
+  },
+  "homepage": "https://github.com/shishamatome/shisha#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "ejs": "^3.1.6",
+    "espress": "*",
+    "express-session": "^1.17.1",
+    "mysql": "^2.18.1"
+  }
+}
